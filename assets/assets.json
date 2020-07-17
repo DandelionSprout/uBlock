@@ -79,6 +79,7 @@
 		"group": "ads",
 		"off": true,
 		"title": "AdGuard Base",
+		"lang": "az",
 		"contentURL": "https://filters.adtidy.org/extension/ublock/filters/2_without_easylist.txt",
 		"supportURL": "https://github.com/AdguardTeam/AdguardFilters#adguard-filters",
 		"instructionURL": "https://kb.adguard.com/en/general/adguard-ad-filters"
@@ -156,7 +157,7 @@
 		"off": true,
 		"title": "Spam404",
 		"contentURL": "https://raw.githubusercontent.com/Spam404/lists/master/adblock-list.txt",
-		"supportURL": "http://www.spam404.com/"
+		"supportURL": "https://www.spam404.com/"
 	},
 	"adguard-annoyance": {
 		"content": "filters",
@@ -289,7 +290,10 @@
 		"off": true,
 		"title": "CHN: CJX's EasyList Lite",
 		"lang": "zh",
-		"contentURL": "https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjxlist.txt",
+		"contentURL": [
+			"https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjxlist.txt",
+			"https://gitee.com/cjx82630/cjxlist/raw/master/cjxlist.txt"
+			],
 		"supportURL": "https://github.com/cjx82630/cjxlist",
 		"instructionURL": "http://abpchina.org/forum/forum.php?mod=viewthread&tid=29667"
 	},
@@ -307,7 +311,7 @@
 		"group": "regions",
 		"off": true,
 		"title": "DEU: EasyList Germany",
-		"lang": "de",
+		"lang": "de rm de-CH hsb dsb",
 		"contentURL": [
 			"https://easylist.to/easylistgermany/easylistgermany.txt",
 			"https://easylist-downloads.adblockplus.org/easylistgermany.txt"
@@ -337,7 +341,7 @@
 		"group": "regions",
 		"off": true,
 		"title": "FRA: AdGuard Français",
-		"lang": "ar br fr oc",
+		"lang": "ar br fr oc ff kab-DZ son",
 		"contentURL": "https://filters.adtidy.org/extension/ublock/filters/16.txt",
 		"supportURL": "https://github.com/AdguardTeam/AdguardFilters#adguard-filters"
 	},
@@ -347,7 +351,10 @@
 		"off": true,
 		"title": "GRC: Greek AdBlock Filter",
 		"lang": "el",
-		"contentURL": "https://www.void.gr/kargig/void-gr-filters.txt",
+		"contentURL": [
+			"https://www.void.gr/kargig/void-gr-filters.txt",
+			"https://raw.githubusercontent.com/kargig/greek-adblockplus-filter/master/void-gr-filters.txt"
+		],
 		"supportURL": "https://github.com/kargig/greek-adblockplus-filter"
 	},
 	"HUN-0": {
@@ -466,7 +473,8 @@
 		"lang": "nb nn no da is",
 		"contentURL": [
 			"https://raw.githubusercontent.com/DandelionSprout/adfilt/master/NorwegianList.txt",
-			"https://repo.or.cz/FilterMirrorRepo.git/blob_plain/refs/heads/master:/NorwegianList.txt"
+			"https://repo.or.cz/FilterMirrorRepo.git/blob_plain/refs/heads/master:/NorwegianList.txt",
+			"https://gitlab.com/DandelionSprout/adfilt/-/raw/master/NorwegianList.txt"
 		],
 		"supportURL": "https://github.com/DandelionSprout/adfilt"
 	},
@@ -516,7 +524,7 @@
 		"group": "regions",
 		"off": true,
 		"title": "spa: EasyList Spanish",
-		"lang": "an ast ca es eu gl",
+		"lang": "an ast ca es eu gl gn cak trs",
 		"contentURL": "https://easylist-downloads.adblockplus.org/easylistspanish.txt",
 		"supportURL": "https://forums.lanik.us/viewforum.php?f=103"
 	},
@@ -525,7 +533,7 @@
 		"group": "regions",
 		"off": true,
 		"title": "spa, por: AdGuard Spanish/Portuguese",
-		"lang": "an ast ca es eu gl pt",
+		"lang": "an ast ca es eu gl gn cak trs pt",
 		"contentURL": "https://filters.adtidy.org/extension/ublock/filters/9.txt",
 		"supportURL": "https://github.com/AdguardTeam/AdguardFilters#adguard-filters",
 		"instructionURL": "https://kb.adguard.com/en/general/adguard-ad-filters"
