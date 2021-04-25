@@ -430,7 +430,16 @@
 		"off": true,
 		"title": "LTU: EasyList Lithuania",
 		"lang": "lt",
-		"contentURL": "https://raw.githubusercontent.com/EasyList-Lithuania/easylist_lithuania/master/easylistlithuania.txt",
+		"contentURL": [
+			"https://raw.githubusercontent.com/EasyList-Lithuania/easylist_lithuania/master/easylistlithuania.txt",
+			"https://gitlab.com/DandelionSprout/easylist_lithuania/-/raw/master/easylistlithuania.txt",
+			"https://easylist-downloads.adblockplus.org/easylistlithuania.txt"
+		],
+		"cdnURLs": [
+			"https://cdn.statically.io/gh/EasyList-Lithuania/easylist_lithuania/master/easylistlithuania.txt",
+			"https://combinatronics.com/EasyList-Lithuania/easylist_lithuania/master/easylistlithuania.txt",
+			"https://cdn.statically.io/gl/DandelionSprout/easylist_lithuania/master/easylistlithuania.txt"
+		],
 		"supportURL": "https://github.com/EasyList-Lithuania/easylist_lithuania"
 	},
 	"LVA-0": {
@@ -459,7 +468,12 @@
 		"lang": "nb nn no da is",
 		"contentURL": [
 			"https://raw.githubusercontent.com/DandelionSprout/adfilt/master/NorwegianList.txt",
-			"https://repo.or.cz/FilterMirrorRepo.git/blob_plain/refs/heads/master:/NorwegianList.txt"
+			"https://gitlab.com/DandelionSprout/adfilt/-/raw/master/NorwegianList.txt"
+		],
+		"cdnURLs": [
+			"https://cdn.statically.io/gh/DandelionSprout/adfilt/master/NorwegianList.txt",
+			"https://combinatronics.com/DandelionSprout/adfilt/master/NorwegianList.txt",
+			"https://cdn.statically.io/gl/DandelionSprout/adfilt/master/NorwegianList.txt"
 		],
 		"supportURL": "https://github.com/DandelionSprout/adfilt"
 	},
