@@ -10,8 +10,7 @@
 			"https://gitcdn.xyz/repo/gorhill/uBlock/master/assets/assets.json",
 			"https://cdn.jsdelivr.net/gh/gorhill/uBlock@master/assets/assets.json",
 			"https://cdn.statically.io/gh/gorhill/uBlock/master/assets/assets.json",
-			"https://combinatronics.io/gorhill/uBlock/master/assets/assets.json",
-			"https://raw.githubusercontent.com/gorhill/uBlock/master/assets/assets.json"
+			"https://combinatronics.io/gorhill/uBlock/master/assets/assets.json"
 		]
 	},
 	"public_suffix_list.dat": {
@@ -49,8 +48,7 @@
 			"https://gitcdn.xyz/repo/uBlockOrigin/uAssets/master/filters/filters.txt",
 			"https://cdn.jsdelivr.net/gh/uBlockOrigin/uAssets@master/filters/filters.txt",
 			"https://cdn.statically.io/gh/uBlockOrigin/uAssets/master/filters/filters.txt",
-			"https://combinatronics.io/uBlockOrigin/uAssets/master/filters/filters.txt",
-			"https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.txt"
+			"https://combinatronics.io/uBlockOrigin/uAssets/master/filters/filters.txt"
 		],
 		"supportURL": "https://github.com/uBlockOrigin/uAssets/issues"
 	},
