@@ -491,7 +491,7 @@
 			"https://cdn.statically.io/gl/DandelionSprout/easylist_lithuania/raw/master/easylistlithuania.txt",
 			"https://gitlab.com/DandelionSprout/easylist_lithuania/-/raw/master/easylistlithuania.txt",
 			"https://easylist-downloads.adblockplus.org/easylistlithuania.txt"
-		]
+		],
 		"supportURL": "https://github.com/EasyList-Lithuania/easylist_lithuania"
 	},
 	"LVA-0": {
@@ -529,7 +529,7 @@
 			"https://raw.githubusercontent.com/DandelionSprout/adfilt/master/NorwegianList.txt",
 			"https://cdn.statically.io/gl/DandelionSprout/adfilt/master/NorwegianList.txt",
 			"https://gitlab.com/DandelionSprout/adfilt/-/raw/master/NorwegianList.txt"
-		]
+		],
 		"supportURL": "https://github.com/DandelionSprout/adfilt"
 	},
 	"POL-0": {
