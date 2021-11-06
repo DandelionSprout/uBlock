@@ -44,7 +44,7 @@ When you uninstall the extension, Firefox deletes that file, so all your setting
 
 ### Firefox legacy
 
-Compatible with Firefox 24-56, [Pale Moon](https://www.palemoon.org/) and [SeaMonkey](http://www.seamonkey-project.org/).
+Compatible with Firefox 24-56, [Pale Moon](https://www.palemoon.org/) and [SeaMonkey](https://www.seamonkey-project.org/).
 
 - Download `ublock0.firefox-legacy.xpi` ([latest release desirable](https://github.com/gorhill/uBlock-for-firefox-legacy/releases)).
     - Right-click and select "Save Link As..."

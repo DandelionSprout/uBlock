@@ -142,7 +142,7 @@ headers = {
 }
 response = requests.get(raw_xpi_url, headers=headers)
 # Redirections are transparently handled:
-# http://docs.python-requests.org/en/master/user/quickstart/#redirection-and-history
+# https://docs.python-requests.org/en/master/user/quickstart/#redirection-and-history
 if response.status_code != 200:
     print('Error: Downloading raw package failed -- server error {0}'.format(response.status_code))
     exit(1)
